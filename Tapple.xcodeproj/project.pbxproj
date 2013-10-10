@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		850F57D717F824EB0040379E /* MainAppleDom.png in Resources */ = {isa = PBXBuildFile; fileRef = 850F57D617F824EB0040379E /* MainAppleDom.png */; };
+		850F57D917F9FAC50040379E /* MainBackGround.png in Resources */ = {isa = PBXBuildFile; fileRef = 850F57D817F9FAC50040379E /* MainBackGround.png */; };
+		850F57DB17FA289F0040379E /* UpgradesScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 850F57DA17FA289E0040379E /* UpgradesScreen.png */; };
+		852C1EB517F737180001E535 /* MainApple.png in Resources */ = {isa = PBXBuildFile; fileRef = 852C1EB417F737180001E535 /* MainApple.png */; };
+		852C1EB917F7385C0001E535 /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 852C1EB817F7385C0001E535 /* AppIcon.png */; };
+		852C1EBB17F73E4D0001E535 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 852C1EBA17F73E4D0001E535 /* GameKit.framework */; };
 		8537D25D17EE1113002159B3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8537D25C17EE1113002159B3 /* Foundation.framework */; };
 		8537D25F17EE1113002159B3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8537D25E17EE1113002159B3 /* CoreGraphics.framework */; };
 		8537D26117EE1113002159B3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8537D26017EE1113002159B3 /* UIKit.framework */; };
@@ -22,6 +28,20 @@
 		8537D28117EE1113002159B3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8537D26017EE1113002159B3 /* UIKit.framework */; };
 		8537D28917EE1113002159B3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8537D28717EE1113002159B3 /* InfoPlist.strings */; };
 		8537D28B17EE1113002159B3 /* TappleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8537D28A17EE1113002159B3 /* TappleTests.m */; };
+		8537D29517EE38E1002159B3 /* timeburner_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8537D29417EE3612002159B3 /* timeburner_regular.ttf */; };
+		8537D29917EE5D3D002159B3 /* tapplebuttons.png in Resources */ = {isa = PBXBuildFile; fileRef = 8537D29817EE5D3D002159B3 /* tapplebuttons.png */; };
+		85558B7317EF414800D3B95C /* tappleRotation.png in Resources */ = {isa = PBXBuildFile; fileRef = 85558B7217EF414800D3B95C /* tappleRotation.png */; };
+		85558B7617EF437400D3B95C /* UIImageView+Rotate.m in Sources */ = {isa = PBXBuildFile; fileRef = 85558B7517EF437400D3B95C /* UIImageView+Rotate.m */; };
+		855D9D09180059A7005470FD /* rootMultiplayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 855D9D08180059A7005470FD /* rootMultiplayerViewController.m */; };
+		855D9D181800A5F2005470FD /* GCHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 855D9D171800A5F2005470FD /* GCHelper.m */; };
+		8560BC7E17F62AC50027CE11 /* AppTitleStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = 8560BC7D17F62AC50027CE11 /* AppTitleStrip.png */; };
+		8560BC8017F62C500027CE11 /* Title.png in Resources */ = {isa = PBXBuildFile; fileRef = 8560BC7F17F62C500027CE11 /* Title.png */; };
+		8560BC8217F6321E0027CE11 /* AppleJuice.png in Resources */ = {isa = PBXBuildFile; fileRef = 8560BC8117F6321E0027CE11 /* AppleJuice.png */; };
+		8560BC8417F63B0C0027CE11 /* fallingapple.png in Resources */ = {isa = PBXBuildFile; fileRef = 8560BC8317F63B0C0027CE11 /* fallingapple.png */; };
+		85632C2017FCC780002168C9 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85632C1F17FCC780002168C9 /* MenuViewController.m */; };
+		85632C2217FCCC95002168C9 /* Menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 85632C2117FCCC95002168C9 /* Menu.png */; };
+		85FF928C17FDD671007CE9C6 /* BackGroundTiles.png in Resources */ = {isa = PBXBuildFile; fileRef = 85FF928B17FDD671007CE9C6 /* BackGroundTiles.png */; };
+		85FF929017FE0349007CE9C6 /* StatsPage.png in Resources */ = {isa = PBXBuildFile; fileRef = 85FF928F17FE0349007CE9C6 /* StatsPage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +55,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		850F57D617F824EB0040379E /* MainAppleDom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MainAppleDom.png; path = ../../../../Downloads/MainAppleDom.png; sourceTree = "<group>"; };
+		850F57D817F9FAC50040379E /* MainBackGround.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MainBackGround.png; path = ../../../../Downloads/MainBackGround.png; sourceTree = "<group>"; };
+		850F57DA17FA289E0040379E /* UpgradesScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UpgradesScreen.png; path = ../../../../Downloads/UpgradesScreen.png; sourceTree = "<group>"; };
+		852C1EB417F737180001E535 /* MainApple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MainApple.png; path = ../../../../Downloads/MainApple.png; sourceTree = "<group>"; };
+		852C1EB817F7385C0001E535 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AppIcon.png; path = ../../../../Downloads/AppIcon.png; sourceTree = "<group>"; };
+		852C1EBA17F73E4D0001E535 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
 		8537D25917EE1113002159B3 /* Tapple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tapple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8537D25C17EE1113002159B3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8537D25E17EE1113002159B3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -55,6 +81,24 @@
 		8537D28617EE1113002159B3 /* TappleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TappleTests-Info.plist"; sourceTree = "<group>"; };
 		8537D28817EE1113002159B3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8537D28A17EE1113002159B3 /* TappleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TappleTests.m; sourceTree = "<group>"; };
+		8537D29417EE3612002159B3 /* timeburner_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = timeburner_regular.ttf; path = ../../../../Downloads/timeburner_regular.ttf; sourceTree = "<group>"; };
+		8537D29817EE5D3D002159B3 /* tapplebuttons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tapplebuttons.png; path = ../../../../Downloads/tapplebuttons.png; sourceTree = "<group>"; };
+		85558B7217EF414800D3B95C /* tappleRotation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tappleRotation.png; path = ../../../../Downloads/tappleRotation.png; sourceTree = "<group>"; };
+		85558B7417EF437400D3B95C /* UIImageView+Rotate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImageView+Rotate.h"; path = "../../../../Downloads/gist5658543-182afa971f180cb0d4170feb9e4d32742f5a95fd/UIImageView+Rotate.h"; sourceTree = "<group>"; };
+		85558B7517EF437400D3B95C /* UIImageView+Rotate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+Rotate.m"; path = "../../../../Downloads/gist5658543-182afa971f180cb0d4170feb9e4d32742f5a95fd/UIImageView+Rotate.m"; sourceTree = "<group>"; };
+		855D9D07180059A7005470FD /* rootMultiplayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rootMultiplayerViewController.h; sourceTree = "<group>"; };
+		855D9D08180059A7005470FD /* rootMultiplayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = rootMultiplayerViewController.m; sourceTree = "<group>"; };
+		855D9D161800A5F2005470FD /* GCHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GCHelper.h; sourceTree = "<group>"; };
+		855D9D171800A5F2005470FD /* GCHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GCHelper.m; sourceTree = "<group>"; };
+		8560BC7D17F62AC50027CE11 /* AppTitleStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AppTitleStrip.png; path = ../../../../Downloads/AppTitleStrip.png; sourceTree = "<group>"; };
+		8560BC7F17F62C500027CE11 /* Title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Title.png; path = ../../../../Downloads/Title.png; sourceTree = "<group>"; };
+		8560BC8117F6321E0027CE11 /* AppleJuice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AppleJuice.png; path = ../../../../Downloads/AppleJuice.png; sourceTree = "<group>"; };
+		8560BC8317F63B0C0027CE11 /* fallingapple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fallingapple.png; path = ../../../../Downloads/fallingapple.png; sourceTree = "<group>"; };
+		85632C1E17FCC780002168C9 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
+		85632C1F17FCC780002168C9 /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
+		85632C2117FCCC95002168C9 /* Menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Menu.png; path = ../../../../Downloads/Menu.png; sourceTree = "<group>"; };
+		85FF928B17FDD671007CE9C6 /* BackGroundTiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BackGroundTiles.png; path = ../../../../Downloads/BackGroundTiles.png; sourceTree = "<group>"; };
+		85FF928F17FE0349007CE9C6 /* StatsPage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StatsPage.png; path = ../../../../Downloads/StatsPage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +109,7 @@
 				8537D25F17EE1113002159B3 /* CoreGraphics.framework in Frameworks */,
 				8537D26117EE1113002159B3 /* UIKit.framework in Frameworks */,
 				8537D25D17EE1113002159B3 /* Foundation.framework in Frameworks */,
+				852C1EBB17F73E4D0001E535 /* GameKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,6 +148,7 @@
 		8537D25B17EE1113002159B3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				852C1EBA17F73E4D0001E535 /* GameKit.framework */,
 				8537D25C17EE1113002159B3 /* Foundation.framework */,
 				8537D25E17EE1113002159B3 /* CoreGraphics.framework */,
 				8537D26017EE1113002159B3 /* UIKit.framework */,
@@ -114,10 +160,18 @@
 		8537D26217EE1113002159B3 /* Tapple */ = {
 			isa = PBXGroup;
 			children = (
-				8537D26B17EE1113002159B3 /* AppDelegate.h */,
+				855D9D161800A5F2005470FD /* GCHelper.h */,
+				855D9D171800A5F2005470FD /* GCHelper.m */,
+				85558B7417EF437400D3B95C /* UIImageView+Rotate.h */,
+				85558B7517EF437400D3B95C /* UIImageView+Rotate.m */,
 				8537D26C17EE1113002159B3 /* AppDelegate.m */,
+				8537D26B17EE1113002159B3 /* AppDelegate.h */,
 				8537D26E17EE1113002159B3 /* Main_iPhone.storyboard */,
 				8537D27117EE1113002159B3 /* Main_iPad.storyboard */,
+				855D9D07180059A7005470FD /* rootMultiplayerViewController.h */,
+				855D9D08180059A7005470FD /* rootMultiplayerViewController.m */,
+				85632C1E17FCC780002168C9 /* MenuViewController.h */,
+				85632C1F17FCC780002168C9 /* MenuViewController.m */,
 				8537D27417EE1113002159B3 /* ViewController.h */,
 				8537D27517EE1113002159B3 /* ViewController.m */,
 				8537D27717EE1113002159B3 /* Images.xcassets */,
@@ -129,6 +183,21 @@
 		8537D26317EE1113002159B3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				85FF928F17FE0349007CE9C6 /* StatsPage.png */,
+				85FF928B17FDD671007CE9C6 /* BackGroundTiles.png */,
+				85632C2117FCCC95002168C9 /* Menu.png */,
+				850F57DA17FA289E0040379E /* UpgradesScreen.png */,
+				850F57D817F9FAC50040379E /* MainBackGround.png */,
+				850F57D617F824EB0040379E /* MainAppleDom.png */,
+				852C1EB817F7385C0001E535 /* AppIcon.png */,
+				852C1EB417F737180001E535 /* MainApple.png */,
+				8560BC8317F63B0C0027CE11 /* fallingapple.png */,
+				8560BC8117F6321E0027CE11 /* AppleJuice.png */,
+				8560BC7F17F62C500027CE11 /* Title.png */,
+				8560BC7D17F62AC50027CE11 /* AppTitleStrip.png */,
+				85558B7217EF414800D3B95C /* tappleRotation.png */,
+				8537D29817EE5D3D002159B3 /* tapplebuttons.png */,
+				8537D29417EE3612002159B3 /* timeburner_regular.ttf */,
 				8537D26417EE1113002159B3 /* Tapple-Info.plist */,
 				8537D26517EE1113002159B3 /* InfoPlist.strings */,
 				8537D26817EE1113002159B3 /* main.m */,
@@ -202,6 +271,20 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = Jed;
 				TargetAttributes = {
+					8537D25817EE1113002159B3 = {
+						DevelopmentTeam = 7FLXHYLZ7E;
+						SystemCapabilities = {
+							com.apple.DataProtection = {
+								enabled = 0;
+							};
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
+					};
 					8537D27C17EE1113002159B3 = {
 						TestTargetID = 8537D25817EE1113002159B3;
 					};
@@ -231,10 +314,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85632C2217FCCC95002168C9 /* Menu.png in Resources */,
+				8537D29917EE5D3D002159B3 /* tapplebuttons.png in Resources */,
+				850F57DB17FA289F0040379E /* UpgradesScreen.png in Resources */,
+				8537D29517EE38E1002159B3 /* timeburner_regular.ttf in Resources */,
+				8560BC7E17F62AC50027CE11 /* AppTitleStrip.png in Resources */,
+				850F57D717F824EB0040379E /* MainAppleDom.png in Resources */,
+				8560BC8417F63B0C0027CE11 /* fallingapple.png in Resources */,
 				8537D27317EE1113002159B3 /* Main_iPad.storyboard in Resources */,
+				85FF929017FE0349007CE9C6 /* StatsPage.png in Resources */,
+				852C1EB917F7385C0001E535 /* AppIcon.png in Resources */,
+				852C1EB517F737180001E535 /* MainApple.png in Resources */,
 				8537D27817EE1113002159B3 /* Images.xcassets in Resources */,
+				850F57D917F9FAC50040379E /* MainBackGround.png in Resources */,
 				8537D27017EE1113002159B3 /* Main_iPhone.storyboard in Resources */,
 				8537D26717EE1113002159B3 /* InfoPlist.strings in Resources */,
+				85558B7317EF414800D3B95C /* tappleRotation.png in Resources */,
+				8560BC8017F62C500027CE11 /* Title.png in Resources */,
+				85FF928C17FDD671007CE9C6 /* BackGroundTiles.png in Resources */,
+				8560BC8217F6321E0027CE11 /* AppleJuice.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,8 +352,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8537D27617EE1113002159B3 /* ViewController.m in Sources */,
+				85558B7617EF437400D3B95C /* UIImageView+Rotate.m in Sources */,
 				8537D26D17EE1113002159B3 /* AppDelegate.m in Sources */,
+				855D9D09180059A7005470FD /* rootMultiplayerViewController.m in Sources */,
 				8537D26917EE1113002159B3 /* main.m in Sources */,
+				85632C2017FCC780002168C9 /* MenuViewController.m in Sources */,
+				855D9D181800A5F2005470FD /* GCHelper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,10 +494,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Tapple/Tapple-Prefix.pch";
 				INFOPLIST_FILE = "Tapple/Tapple-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -405,10 +512,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Tapple/Tapple-Prefix.pch";
 				INFOPLIST_FILE = "Tapple/Tapple-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -474,6 +586,7 @@
 				8537D29017EE1113002159B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8537D29117EE1113002159B3 /* Build configuration list for PBXNativeTarget "TappleTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +595,7 @@
 				8537D29317EE1113002159B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
