@@ -7,7 +7,6 @@
    fromPlayer:(NSString *)playerID;
 @end
 
-// Modify @interface line to support protocols as follows
 @interface GCHelper : NSObject <GKMatchmakerViewControllerDelegate, GKMatchDelegate> {
     BOOL gameCenterAvailable;
     BOOL userAuthenticated;
